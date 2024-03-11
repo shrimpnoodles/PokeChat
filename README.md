@@ -1,5 +1,5 @@
 # PokeChat
-This is the repo for the generative AI question-answering chatbot on Pokemon data using retrieval-augmented generation (RAG) from 
+This is the repo for the generative AI question-answering chatbot on Pokemon data using retrieval-augmented generation (RAG) in 
 [*Build a Simple RAG Chatbot to Talk to your Data*](https://medium.com/p/2beb2457851a/edit). 
 
 ## Specs
