@@ -13,6 +13,4 @@ This is the repo for the generative AI question-answering chatbot on Pokemon dat
 Kaggle Notebooks with GPU T4 x2
 
 ## Links
-Walkthrough: [https://medium.com/p/2beb2457851a/edit](url)
-
 Dataset: [https://www.kaggle.com/datasets/hanicier/master-pokemon-dataset-with-corpus-version/settings](url)
